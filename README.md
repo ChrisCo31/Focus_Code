@@ -6,3 +6,4 @@ Résumé de points specifiques sur des cours de codes (Php, Symfony, JS, CSS, HT
 - OneToOne
 - Entites_relations
 - L'utilisation de doctrine 2 dans un controller ou un service
+- Composer
